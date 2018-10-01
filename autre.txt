@@ -1,2 +1,3 @@
 Et voici un autre fichier enregistré sur GitHub
 Et maintenant modifié depuis GitHub mais aussi depuis ma machine locale
+Depuis ma machine locale c'est cool
